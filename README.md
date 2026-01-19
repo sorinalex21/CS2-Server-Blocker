@@ -1,11 +1,12 @@
 # CS2 Server Blocker 🌍🔒
 <p align="center">
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/03535862-90b8-449f-b205-6ece291013d6" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c97cb540-bf3a-49f3-9b74-142aa67fda20" />
+
 </p>
 
 **CS2 Server Blocker** is a lightweight, Windows-based tool designed for Counter-Strike 2 players who want to have full control over their matchmaking experience. It allows you to block specific server regions (firewall rules) to ensure you only play on servers with low ping or good language compatibility.
 
-<img width="882" height="584" alt="image" src="https://github.com/user-attachments/assets/1d27fcfc-b350-4dff-a68f-27b21319ef25" />
+<img width="882" height="584" alt="image" src="https://github.com/user-attachments/assets/f6156cab-a134-43f5-a186-1e20d3c11447" />
 
 
 ## 🚀 Key Features
